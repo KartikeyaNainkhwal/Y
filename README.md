@@ -44,6 +44,54 @@ The platform enables:
 This project demonstrates how to build a **production-ready SaaS platform** with authentication, payments, dashboards, notifications, and real business logic.
 
 ---
+# 📸 Application Screenshots
+
+Below are some key interfaces of **HealthAxis**.
+
+---
+
+### 🏠 Home Page
+
+![Home Page](./screenshots/home.png)
+
+---
+
+### 🔎 Find Doctors
+
+![Find Doctors](./screenshots/doctors.png)
+
+---
+
+### 📅 Appointment Booking
+
+![Book Appointment](./screenshots/booking.png)
+
+---
+
+### 💳 Payment Integration
+
+![Payment](./screenshots/payment.png)
+
+---
+
+### 👤 Patient Dashboard
+
+![Patient Dashboard](./screenshots/patient-dashboard.png)
+
+---
+
+### 👨‍⚕️ Doctor Dashboard
+
+![Doctor Dashboard](./screenshots/doctor-dashboard.png)
+
+---
+
+### 🛡️ Admin Panel
+
+![Admin Panel](./screenshots/admin-dashboard.png)
+
+---
+
 
 # 💼 Business Use Cases
 
