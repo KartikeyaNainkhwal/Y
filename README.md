@@ -435,7 +435,7 @@ Services I offer:
 
 If you're building a **startup or scalable web platform**, feel free to reach out.
 
-📩 **Email:** [kartikeyak@iitbhilai.ac.in](mailto:kartikeyak@iitbhilai.ac.in)
+📩 **Email:** [kartikeyak@iitbhilai.ac.in](mailto:kartikeyanainkhwal@gmail.com)
 
 ---
 
